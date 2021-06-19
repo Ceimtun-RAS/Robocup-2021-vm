@@ -1,0 +1,3 @@
+[submodule "YOLO_robocup"]
+	path = YOLO_robocup
+	url = https://github.com/Ceimtun-RAS/YOLO_robocup.git
